@@ -2,6 +2,7 @@
 Destini Forest: Choose Your Own Adventure Game
 Welcome to Destini Forest, a choose your own adventure game inspired by interactive stories like Bandersnatch. 
 This Flutter-based application allows users to make choices that influence the narrative, leading to various story outcomes.
+
 Features
 Interactive Storytelling: Make decisions at key points to shape the story's direction.
 Dynamic Content: The narrative adapts based on your choices, providing a unique experience with each playthrough.
